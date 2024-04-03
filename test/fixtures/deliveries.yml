@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_id: 1
+  order_id: 1
+  estimated_arrival: 2024-04-03 02:09:58
+  quantity: 1
+
+two:
+  delivery_id: 1
+  order_id: 1
+  estimated_arrival: 2024-04-03 02:09:58
+  quantity: 1
